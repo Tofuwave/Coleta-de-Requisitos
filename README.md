@@ -1,5 +1,7 @@
 # Primeira Reunião para coleta de Requisitos
 
+A ideia desse trabalho é conseguir o máximo de informação sobre a empresa através de uma entrevista com a CEO da empresa
+
 Pauta
 
 - Resumo:
