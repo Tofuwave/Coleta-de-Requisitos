@@ -1,6 +1,3 @@
-# Coleta-de-Requisitos
-
-
 # Primeira Reunião para coleta de Requisitos
 
 Pauta
@@ -108,3 +105,46 @@ Pauta
 - Custos: 10 mil,servidor, 5 mil câmeras, 2 mil comandos e 8 mil custo mão de obra = 25.000
 - Plataformas:
 - Exclusões: não fazer um aplicativo/ usar o Whatsapp para menssagens
+
+
+<h2>CRIAÇÃO DE DIAGRAMA DE CASO DE USO</h2>
+
+Apresentação dos requisitos funcionais e não funcionais (mínimo 3 de cada):
+
+* Requisito não funcionais:
+-automação da empresa 
+-Melhora na segurança
+-Necessidade de economia de energia.
+
+* Requisitos funcionais
+-Respostas auditiva
+-Abertura automática de portas
+-Gestão automatizada de lâmpadas
+
+
+![Opera Snapshot_2024-01-29_222718_www plantuml com](https://github.com/Tofuwave/Coleta-de-Requisitos/assets/66047380/641572f8-796f-4420-a2c0-dedf3a45194c)
+
+<h2>CRIAÇÃO DE DIAGRAMA DE CLASSES</h2>
+
+Apresentação dos requisitos funcionais e não funcionais (mínimo 3 de cada):
+
+
+Requisito funcional
+
+-identificar pessoa
+-darAcesso
+-restringirAcesso
+
+
+Requisito não funcional
+-melhorar segurança
+-inclusão social
+melhorar o fluxo interno
+
+
+
+![Opera Snapshot_2024-01-29_233212_app diagrams net](https://github.com/Tofuwave/Coleta-de-Requisitos/assets/66047380/61be463d-6fbf-4ed0-ae40-39a2a476c82e)
+
+
+
+
